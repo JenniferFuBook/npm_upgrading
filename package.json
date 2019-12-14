@@ -1,0 +1,24 @@
+{
+  "name": "npm_upgrading",
+  "version": "1.0.0",
+  "description": "A tutorial how to upgrade NPM packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JenniferFuBook/npm_upgrading.git"
+  },
+  "author": "Jennifer Fu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JenniferFuBook/npm_upgrading/issues"
+  },
+  "homepage": "https://github.com/JenniferFuBook/npm_upgrading#readme",
+  "dependencies": {
+    "lodash": "~3.8.0",
+    "prettier": "1.19.0",
+    "react": "^15.2.0"
+  }
+}
