@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/JenniferFuBook/npm_upgrading#readme",
   "dependencies": {
-    "lodash": "~4.17.12",
+    "lodash": "~4.17.21",
     "prettier": "1.18.0",
     "react": "^15.2.0"
   }
